@@ -1,0 +1,30 @@
+C:\Users\stud\Desktop\2 lab\2 lab\2 lab\bin\Debug\2 lab.exe.config
+C:\Users\stud\Desktop\2 lab\2 lab\2 lab\bin\Debug\2 lab.exe
+C:\Users\stud\Desktop\2 lab\2 lab\2 lab\bin\Debug\2 lab.pdb
+C:\Users\stud\Desktop\2 lab\2 lab\2 lab\obj\Debug\2 lab.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\2 lab\2 lab\2 lab\obj\Debug\_2_lab.Form1.resources
+C:\Users\stud\Desktop\2 lab\2 lab\2 lab\obj\Debug\_2_lab.Properties.Resources.resources
+C:\Users\stud\Desktop\2 lab\2 lab\2 lab\obj\Debug\2 lab.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\2 lab\2 lab\2 lab\obj\Debug\2 lab.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\2 lab\2 lab\2 lab\obj\Debug\2 lab.exe
+C:\Users\stud\Desktop\2 lab\2 lab\2 lab\obj\Debug\2 lab.pdb
+D:\Программирование\2 lab\2 lab\2 lab\bin\Debug\2 lab.exe.config
+D:\Программирование\2 lab\2 lab\2 lab\bin\Debug\2 lab.exe
+D:\Программирование\2 lab\2 lab\2 lab\bin\Debug\2 lab.pdb
+D:\Программирование\2 lab\2 lab\2 lab\obj\Debug\2 lab.csproj.AssemblyReference.cache
+D:\Программирование\2 lab\2 lab\2 lab\obj\Debug\_2_lab.Form1.resources
+D:\Программирование\2 lab\2 lab\2 lab\obj\Debug\_2_lab.Properties.Resources.resources
+D:\Программирование\2 lab\2 lab\2 lab\obj\Debug\2 lab.csproj.GenerateResource.cache
+D:\Программирование\2 lab\2 lab\2 lab\obj\Debug\2 lab.csproj.CoreCompileInputs.cache
+D:\Программирование\2 lab\2 lab\2 lab\obj\Debug\2 lab.exe
+D:\Программирование\2 lab\2 lab\2 lab\obj\Debug\2 lab.pdb
+E:\Программирование\2 lab\2 lab\2 lab\bin\Debug\2 lab.exe.config
+E:\Программирование\2 lab\2 lab\2 lab\bin\Debug\2 lab.exe
+E:\Программирование\2 lab\2 lab\2 lab\bin\Debug\2 lab.pdb
+E:\Программирование\2 lab\2 lab\2 lab\obj\Debug\2 lab.csproj.AssemblyReference.cache
+E:\Программирование\2 lab\2 lab\2 lab\obj\Debug\_2_lab.Form1.resources
+E:\Программирование\2 lab\2 lab\2 lab\obj\Debug\_2_lab.Properties.Resources.resources
+E:\Программирование\2 lab\2 lab\2 lab\obj\Debug\2 lab.csproj.GenerateResource.cache
+E:\Программирование\2 lab\2 lab\2 lab\obj\Debug\2 lab.csproj.CoreCompileInputs.cache
+E:\Программирование\2 lab\2 lab\2 lab\obj\Debug\2 lab.exe
+E:\Программирование\2 lab\2 lab\2 lab\obj\Debug\2 lab.pdb
